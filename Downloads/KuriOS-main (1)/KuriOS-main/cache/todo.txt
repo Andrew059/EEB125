@@ -1,0 +1,9 @@
+To-Do List:
+- Meet Elon Musk
+- Buy Elden Ring
+- Expand ML research lab in San Francisco by enlisting new promising recruits
+- Upgrade OpenAI account
+- Look into Google Cloud GPUs
+- Finish training Minecraft AI bot army
+- Deploy Minecraft AI bot army to 2b2t server
+- Create password selection algorithm for comrade
