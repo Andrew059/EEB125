@@ -1,5 +1,0 @@
-Potential Risks Associated with the Implementation of Artificial Intelligence in our Society:
-- Can be used for tracking people (cameras equipped with facial recognition), influencing elections (corporations' involvement in presidential elections), and spreading propaganda (fake Twitter bots, deepfake videos, user-profiling)
-- Nefarious intentional agents using artificial intelligence as a tool to inflict pain upon others
-- Intelligent machines turning into actors against the preservation of humanity
-- Losing control over our AI creations
